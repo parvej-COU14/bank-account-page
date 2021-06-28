@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&family=Roboto:wght@100;300&display=swap');
+body{
+    margin: 0;
+    padding:50px;
+    font-family: 'Jomhuria', cursive;
+font-family: 'Roboto', sans-serif;
+
+}
+#header{
+    font-family: 'Jomhuria', cursive;
+    font-weight: 400;
+    font-size: 80px;
+   
+}
+#Transition-area{
+    display: none;
+}
+.status{
+    margin: 0 20px;
+    padding:20px;
+    color: #fff;
+    border-radius: 10px;
+}
+.diposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
